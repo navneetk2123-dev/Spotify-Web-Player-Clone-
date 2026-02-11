@@ -26,5 +26,6 @@ A fully functional Spotify-inspired web music player homepage built using HTML, 
 
 ## Preview
 <img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/84ca46e4-628f-42dd-b7eb-73bea913338a" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6e23942-7323-4560-9e94-77aa09ef4439" />
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/fd63b62f-74cd-4bcb-9a2a-e69cfcc2714a" />
+
 
